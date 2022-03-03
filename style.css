@@ -381,8 +381,8 @@ textarea::placeholder {
         font-size: 16px;
     }
     .valid {
-        /* flex-direction: column; */
-        display: flex;
+        flex-direction: column;
+/*         display: flex; */
     }
     .valid .contentBox,
     .valid .imageBox {
